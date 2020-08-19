@@ -3,8 +3,8 @@
 The purpose of this project is to host my resume in the cloud as a small demo to potential employers. 
 
 Goals:
-* (WIP) Create a static web page of my resume.
-* Deploy as an Amazon S3 static website. 
+* (Complete) Create a static web page of my resume.
+* (WIP) Deploy as an Amazon S3 static website. 
 * Enable SSL.
 * Implement a visitor counter, storing the count in DynamoDB.
 * Implement an API to communicate between the client and the database.
