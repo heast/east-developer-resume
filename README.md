@@ -5,7 +5,7 @@ The purpose of this project is to host my resume in the cloud as a small demo to
 Goals:
 * (Complete) Create a static web page of my resume.
 * (Complete with [one issue](https://github.com/heast/east-developer-resume/issues/1)) Deploy as an Amazon S3 [static website](http://east-developer-resume.s3-website-us-east-1.amazonaws.com/)
-* Enable SSL.
+* (Complete) Enable SSL. [Secure version](d1uyw9depe9cja.cloudfront.net)
 * Implement a visitor counter, storing the count in DynamoDB.
 * Implement an API to communicate between the client and the database.
 * Add unit tests for the aforementioned API.
