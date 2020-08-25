@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   deploy:
-  name: Deploy to bucket
+  - name: Deploy to bucket
     runs-on: ubuntu-latest
     steps:
     - name: Configure AWS Credentials
