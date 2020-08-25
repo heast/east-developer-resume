@@ -9,7 +9,7 @@ Goals:
 * Implement a visitor counter, storing the count in DynamoDB.
 * Implement an API to communicate between the client and the database.
 * Add unit tests for the aforementioned API.
-* Set up CI/CD using GitHub Actions.
+* (Front end in progress) Set up CI/CD using GitHub Actions.
 
 Thanks to @forrestbrazeal for the idea. I discovered the [Cloud Resume Challenge](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/)
 too late for the actual challenge, but it's a great project.
