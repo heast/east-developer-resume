@@ -14,7 +14,6 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: resume_project
-          path: build
 
   deploy:
     runs-on: ubuntu-latest
