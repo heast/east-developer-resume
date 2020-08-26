@@ -14,11 +14,11 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: resume_project
-          path: resume
+          path: build
 
   deploy:
     runs-on: ubuntu-latest
-    needs: resume
+    needs: build
 
     steps:
       - name: Get artifact
