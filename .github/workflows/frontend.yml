@@ -14,6 +14,7 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: resume_project
+          path: /home/runner/work/east-developer-resume
 
   deploy:
     runs-on: ubuntu-latest
