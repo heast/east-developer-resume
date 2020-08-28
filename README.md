@@ -4,9 +4,9 @@ The purpose of this project is to host my [resume](https://east-developer-resume
 
 Goals:
 * (Complete) Create a static web page of my resume.
-* (Complete with [one issue](https://github.com/heast/east-developer-resume/issues/1)) Deploy as an Amazon S3 static website
+* (Complete) Deploy as an Amazon S3 static website
 * (Complete) Enable SSL. 
-* Implement a visitor counter, storing the count in DynamoDB.
+* (In process) Implement a visitor counter, storing the count in DynamoDB.
 * Implement an API to communicate between the client and the database.
 * Add unit tests for the aforementioned API.
 * (Front end complete) Set up CI/CD using GitHub Actions.
